@@ -1,0 +1,61 @@
+body{
+    text-align: center;
+}
+
+#container{
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.platsLink{
+    text-decoration: none;
+}
+
+.platContainer{
+    height:30%;
+}
+
+#profile{
+    position: absolute;
+    top: 4%; right: 20%;
+}
+
+#panier{
+    position: absolute;
+    top: 4%; left: 20%;
+}
+
+
+
+.message  {
+    color: black;
+    border: 2px solid #dedede;
+    background-color: #f1f1f1;
+    border-radius: 5px;
+    padding: 20px;
+    margin: 10px 0;
+  }
+
+  .time-right {
+    float: right;
+    color: rgb(124, 124, 124);
+  }
+
+.crabeIMG{
+
+    width: 200px;
+    height: 200px;
+
+}
+
+.videoContainer{
+
+    float: left;
+    width: 240px;
+    height: 240px;
+    border: 8px solid black;
+    border-radius: 10px;
+    margin: 30px 30px;
+
+}
